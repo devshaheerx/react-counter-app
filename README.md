@@ -20,7 +20,10 @@ A sleek counter app built with React and Tailwind CSS, featuring a glassmorphism
 npm install
 npm run dev
 ```
-
+## Build for Production
+```bash
+npm run build
+```
 ## Build for Production
 ```bash
 npm run build
