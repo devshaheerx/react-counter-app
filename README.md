@@ -24,7 +24,3 @@ npm run dev
 ```bash
 npm run build
 ```
-## Build for Production
-```bash
-npm run build
-```
