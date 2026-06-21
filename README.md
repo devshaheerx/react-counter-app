@@ -44,7 +44,7 @@ src/
 │   ├── CountDisplay.jsx      # Reactive count with color logic
 │   └── ActionButton.jsx      # Reusable presentational button
 ├── constants/
-│   └── buttons.jsx           # Button config (label, icon, styles)
+│   └── Buttons.jsx           # Button config (label, icon, styles)
 ├── App.jsx                   # Root layout
 └── main.jsx                  # Entry point
 ```
