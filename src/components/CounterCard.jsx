@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { BUTTONS } from "../constants/buttons";
+import { BUTTONS } from "../constants/Buttons";
 import CountDisplay from "./CountDisplay";
 import ActionButton from "./ActionButton";
 
