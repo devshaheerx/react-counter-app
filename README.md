@@ -71,7 +71,7 @@ Receives `count` as a prop. Derives text color internally:
 ### `ActionButton.jsx`
 Fully presentational. Accepts `label`, `icon`, `classes`, and `onClick`. Handles hover lift and active press via Tailwind transitions.
 
-### `constants/buttons.jsx`
+### `constants/Buttons.jsx`
 Static config for the three buttons — label, Lucide icon element, and Tailwind class string. Modify here to add, remove, or restyle buttons without touching component logic.
 
 ---
